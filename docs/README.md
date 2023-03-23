@@ -1,4 +1,4 @@
-# はじめて Docsify やってみた
-!> [tokawa-ms](https://github.com/tokawa-ms) の Docsify 勉強用リポジトリなので特に有用な情報はないです。
+# はじめて docsify やってみた
+!> [tokawa-ms](https://github.com/tokawa-ms) の docsify 勉強用リポジトリなので特に有用な情報はないです。
 ## これはなに？
-[tokawa-ms](https://github.com/tokawa-ms) が Docsify の勉強のために色々いじっています。
+[tokawa-ms](https://github.com/tokawa-ms) が docsify の勉強のために色々いじっています。
