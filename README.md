@@ -1,4 +1,4 @@
-# HELLO Docsify
+# HELLO docsify
 今後、技術ハンズオンを docsify で GitHub Pages を使ってホストしてみようかと思い立ち、とりあえず docsify を触ってみるためのリポジトリとして作りました。
 そんなわけで、このリポジトリ自体には特に技術的に有用な情報はありません…。
 
